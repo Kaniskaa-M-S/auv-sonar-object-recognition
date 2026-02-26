@@ -1,4 +1,4 @@
-cat > ~/Desktop/auv-sonar-research/README.md << 'EOF'
+
 # AUV Sonar Object Recognition Research
 
 Underwater acoustic data analysis and model development for autonomous underwater 
