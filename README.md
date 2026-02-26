@@ -14,5 +14,4 @@ This repository documents the research scope and methodology.
 - Object classification model development for underwater environments  
 - Field data collection and validation
 
-## Publications
-[Link to your IEEE papers here]
+
